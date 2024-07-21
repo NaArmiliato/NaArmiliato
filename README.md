@@ -1,16 +1,15 @@
-## Hi there 👋
+![Kratos image](![image](https://github.com/user-attachments/assets/90e2d3c1-2969-45bf-8f7d-180567bd9e84)
+)
 
-<!--
-**NaArmiliato/NaArmiliato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Boas vindas ao meu perfil 💙 👋
 
-Here are some ideas to get you started:
+Meu nome é Nicolas Armiliato
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e
+compartilhamento dos meus projetos desenvolvidos
+- Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Para contato: na.armiliato@gmail.com
+
+-Instagram: @naarmiliato_
